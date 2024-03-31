@@ -3,7 +3,7 @@
 
 Exercises using the [chinook database](https://github.com/lerocha/chinook-database)
 
-* [Chinook ER diagram](https://observablehq.com/@pbogden/chinook-er-diagram) -- my notebook
+* [Chinook ER diagram](https://observablehq.com/@pbogden/chinook-er-diagram) -- reference notebook
 * [chinook database repo](https://github.com/lerocha/chinook-database/) -- github
 
 ## Entity-Relationship Diagrams
